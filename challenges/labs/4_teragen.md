@@ -1,4 +1,4 @@
-#Teragen
+## Teragen
 ---
 
 ```bash
@@ -69,7 +69,7 @@
 
 ```
 				
-#Time
+## Time
 ---
 
 ```bash
@@ -78,7 +78,7 @@ user    0m6.113s
 sys     0m0.291s
 ```
 
-#ls
+## ls
 ---
 
 ```bash
