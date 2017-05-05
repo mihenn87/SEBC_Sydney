@@ -21,11 +21,11 @@ AWS
 
 |external hostname	|ext. IP		|internal hostname	|int. IP|
 |---|---|---|---|
-|ec2-52-59-254-107.eu-central-1.compute.amazonaws.com	|52.59.254.107		|ip-172-31-10-82.eu-central-1.compute.internal	172.31.10.82|
-|ec2-54-93-252-216.eu-central-1.compute.amazonaws.com	|54.93.252.216		|ip-172-31-9-185.eu-central-1.compute.internal	172.31.9.185|
-|ec2-52-59-205-142.eu-central-1.compute.amazonaws.com	|52.59.205.142		|ip-172-31-2-37.eu-central-1.compute.internal	172.31.2.37|
-|ec2-52-59-252-4.eu-central-1.compute.amazonaws.com	|52.59.252.4		|ip-172-31-13-251.eu-central-1.compute.internal	172.31.13.251|
-|ec2-54-93-230-126.eu-central-1.compute.amazonaws.com	|54.93.230.126		|ip-172-31-15-57.eu-central-1.compute.internal	172.31.15.|57
+|ec2-52-59-254-107.eu-central-1.compute.amazonaws.com	|52.59.254.107		|ip-172-31-10-82.eu-central-1.compute.internal	|172.31.10.82|
+|ec2-54-93-252-216.eu-central-1.compute.amazonaws.com	|54.93.252.216		|ip-172-31-9-185.eu-central-1.compute.internal	|172.31.9.185|
+|ec2-52-59-205-142.eu-central-1.compute.amazonaws.com	|52.59.205.142		|ip-172-31-2-37.eu-central-1.compute.internal	|172.31.2.37|
+|ec2-52-59-252-4.eu-central-1.compute.amazonaws.com	|52.59.252.4		|ip-172-31-13-251.eu-central-1.compute.internal	|172.31.13.251|
+|ec2-54-93-230-126.eu-central-1.compute.amazonaws.com	|54.93.230.126		|ip-172-31-15-57.eu-central-1.compute.internal	|172.31.15.57|
 
 ##Linux Release
 
